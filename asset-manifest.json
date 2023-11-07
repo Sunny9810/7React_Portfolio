@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/7React_Portfolio/static/css/main.eb241f0a.css",
+    "main.js": "/7React_Portfolio/static/js/main.fa2019ce.js",
+    "static/js/787.12e7f510.chunk.js": "/7React_Portfolio/static/js/787.12e7f510.chunk.js",
+    "static/media/Untitled_ Apr 30, 2023 9_16 PM.gif": "/7React_Portfolio/static/media/Untitled_ Apr 30, 2023 9_16 PM.f06a5fbeed6c34377005.gif",
+    "static/media/Coding Asseessment.gif": "/7React_Portfolio/static/media/Coding Asseessment.f4bfb8c92b72ae3725f6.gif",
+    "static/media/main-img.png.jpg": "/7React_Portfolio/static/media/main-img.png.478849b2a913bac83387.jpg",
+    "static/media/Final_look.png": "/7React_Portfolio/static/media/Final_look.e4f498619ffbd8dab08b.png",
+    "static/media/11-express-homework-demo-02.png": "/7React_Portfolio/static/media/11-express-homework-demo-02.f4bc67c43a0f5b3c72f3.png",
+    "index.html": "/7React_Portfolio/index.html",
+    "main.eb241f0a.css.map": "/7React_Portfolio/static/css/main.eb241f0a.css.map",
+    "main.fa2019ce.js.map": "/7React_Portfolio/static/js/main.fa2019ce.js.map",
+    "787.12e7f510.chunk.js.map": "/7React_Portfolio/static/js/787.12e7f510.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb241f0a.css",
+    "static/js/main.fa2019ce.js"
+  ]
+}
