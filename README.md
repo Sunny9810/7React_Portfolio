@@ -10,7 +10,6 @@ Welcome to my portfolio, a glimpse into my world of skills, experiences, and pro
 - [Usage Information](#Usage-Information)
 - [Installation Process](#Installation-Process)
 - [Built With](#Built-With)
-- [Author](#Author)
 
 # Overview
 
@@ -59,7 +58,7 @@ WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 ```
 #### The following animation demonstrates the application functionality:
-![]()
+![](./)
 
 ## Usage Instructions:
 1. Navigate to the deployed application link.
@@ -69,10 +68,10 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 5. Download the developer's resume in the Resume section.
 
 ## Deployed GitHub-Pages Application Link:
-[Deployed GitHub-Pages Application Link:]
+[Deployed GitHub-Pages Application Link:](https://sunny9810.github.io/7React_Portfolio/)
 
 ## GitHub Repository:
-[GitHub Repository:]
+[GitHub Repository:](https://github.com/Sunny9810/7React_Portfolio)
 
 ## Installation Process:
 1. Clone the Repository from GitHub (or) Download Zip Folder from Repository from GitHub.
