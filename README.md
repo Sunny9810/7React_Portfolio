@@ -58,7 +58,7 @@ WHEN I view the footer
 THEN I am presented with text or icon links to the developer’s GitHub and LinkedIn profiles, and their profile on a third platform (Stack Overflow, Twitter)
 ```
 #### The following animation demonstrates the application functionality:
-![](./)
+"C:\Users\arevi\Downloads\Untitled video - Made with Clipchamp.mp4"
 
 ## Usage Instructions:
 1. Navigate to the deployed application link.
